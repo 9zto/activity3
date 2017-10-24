@@ -5,7 +5,7 @@
  *    Uses advanced search for keywords 
  * </li></ul> 
  *    
- * @author Laurie White
+ * @author Kacey Pitcher
  * @version April 2012
  */
 public class Magpie3
